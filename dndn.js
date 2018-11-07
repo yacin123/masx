@@ -20,7 +20,7 @@ console.log("Welcome Again !");
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
 شرفنا يا عسل:wink: :kissing_heart:
 
-https://discord.gg/FTk3HY
+https://discord.gg/RM8UX5
 joined info-!! -- ♯  Étoiles ' Offical .
 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
@@ -47,7 +47,7 @@ client.on("guildMemberAdd", member => {
 - 
 @everyone **
 
-https://discord.gg/FTk3HY
+https://discord.gg/RM8UX5
 
 joined info-- - ♯  Étoiles ' Offical .
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
