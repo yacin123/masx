@@ -54,4 +54,4 @@ joined info-- - ♯  Étoiles ' Offical .
 **`) 
 }).catch(console.error)
 })
-client.login('NTA0NDAyNjE1OTc5NzM3MDk5.DrSNDQ.VZqtYkIWkL0wrELdKnPpDBY4xWU');
+client.login('NTA5Nzc0ODI1NzEyMTIzOTA3.DsS9aA.A0k5jd1lZ_-Vnp8c5io-NIA__R4');
